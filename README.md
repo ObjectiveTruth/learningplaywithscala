@@ -5,10 +5,10 @@ I'm trying out a few technologies to get acquainted as fast as possible for myse
 
 ##What technologies?
 * [Scala](http://www.scala-lang.org/)
-* Play Framework
-* Bootstrap
-* Twirl
-* Vim
+* [Play Framework](https://www.playframework.com/)
+* [Bootstrap](http://getbootstrap.com/)
+* [Twirl](http://www.scalatra.org/2.4/guides/views/twirl.html)
+* [Vim](http://www.vim.org/)
 
 ##WTF? Vim?
 Watching my professor zip around in vim is insane. I'm insane, therefore I must learn..
@@ -40,7 +40,7 @@ To see all the data you've added in JSON format, go to:
     localhost:9000/persons
 
 ##IDE
-I used IntelliJ with the [Scala](http://www.scala-lang.org/) and IdeaVim plugins
+I used IntelliJ with the [Scala](https://plugins.jetbrains.com/plugin/?id=1347) and [IdeaVim plugins](https://plugins.jetbrains.com/plugin/164)
 
 ##License
 This software is licensed under the Apache 2 license, quoted below.
