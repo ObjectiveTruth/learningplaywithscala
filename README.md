@@ -11,6 +11,7 @@ I'm trying out a few technologies to get acquainted as fast as possible for myse
 * [Bootstrap](http://getbootstrap.com/)
 * [Twirl](http://www.scalatra.org/2.4/guides/views/twirl.html)
 * [Vim](http://www.vim.org/)
+* [Sorm](http://sorm-framework.org/)
 
 ##WTF? Vim?
 Watching my professor zip around in vim is insane. I'm insane, therefore I must learn..
@@ -33,7 +34,7 @@ Point your browser to
 ##What does it do?
 The Scala written Play framework server will load a Twirl templated webpage.
 
-The page is beautified with Bootstrap and lets you add data to the memory of the system.
+The page is beautified with Bootstrap and lets you add data to the memory of the system using SORM
 
 After each successful data addition, the page will refresh and you can see the total data on the server on the right
 
