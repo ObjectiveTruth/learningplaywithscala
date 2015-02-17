@@ -3,7 +3,7 @@
 ## What is this?
 I'm trying out a few technologies to get acquainted as fast as possible for myself and for a job in the summer.
 
-![LearningPlayWithScala Gif](https://github.com/ObjectiveTruth/learningplaywithscala/app/assets/previewlearningwithscala.gif)
+![LearningPlayWithScala Gif](/app/assets/previewlearningwithscala.gif?raw=true)
 
 ##What technologies?
 * [Scala](http://www.scala-lang.org/)
